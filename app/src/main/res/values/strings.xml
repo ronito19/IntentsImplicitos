@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentsImplicitos</string>
+    <string name="intents_implicitos">Intents Implicitos</string>
+    <string name="abrir_web">ABRIR WEB</string>
+    <string name="http_tupagina_com">http://tupagina.com</string>
+    <string name="direccion">Direccion</string>
+    <string name="abrir_mapa">ABRIR MAPA</string>
+    <string name="abrir_texto_con" />
+</resources>
